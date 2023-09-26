@@ -54,3 +54,8 @@ form input.equal{
 form input.operator{
     color: #33ffd8;
 }
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
